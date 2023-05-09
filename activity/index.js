@@ -1,4 +1,3 @@
-
 let trainer= {
     Name: 'Moonlight',
     Age: 18,
